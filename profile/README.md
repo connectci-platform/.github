@@ -2,7 +2,7 @@
 
 **Community infrastructure for research computing** — [connectci.org](https://connectci.org)
 
-Connect.CI is a web platform for collaboration across the national research computing ecosystem. One shared Drupal codebase powers 13+ community sites — including [ACCESS Support](https://support.access-ci.org), the [Campus Champions](https://campuschampions.cyberinfrastructure.org) program, the Cyberinfrastructure Community-wide Mentorship Network (CCMNet), and the Open OnDemand Community Hub — with a shared user base, knowledge base, and tag taxonomy, so a member's profile, skills, and contributions follow them between communities.
+Connect.CI is a web platform for collaboration across the national research computing ecosystem. One shared Drupal codebase powers 13+ community sites — including [ACCESS Support](https://support.access-ci.org), the [Campus Champions](https://campuschampions.cyberinfrastructure.org) program, the [Cyberinfrastructure Community-wide Mentorship Network (CCMNet)](https://ccmnet.org), and the [Open OnDemand Community Hub](https://openondemand.connectci.org) — with a shared user base, knowledge base, and tag taxonomy, so a member's profile, skills, and contributions follow them between communities.
 
 The platform and its operational model are described in our PEARC '26 paper:
 [The Connect.CI Portal: Building and Sustaining a Cyberinfrastructure Community Platform](https://doi.org/10.1145/3785462.3815904).
